@@ -17,10 +17,10 @@ python 3 (3.6 or higher)
 # Packages Required
 
 ```bash
-***pip3** **install scikit-image
-pip3** **install opencv-contrib-python
+pip3 install scikit-image
+pip3 install opencv-contrib-python
 pip3 install python3-numpy
-pip3 install libboost-python-dev***
+pip3 install libboost-python-dev
 ```
 
 # **Build and Launch instructions**
